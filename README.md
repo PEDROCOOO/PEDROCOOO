@@ -1,0 +1,5 @@
+- 👋 Ola @PEDROCOOO
+- 👀 Sou interessado em progração de Gamedev como c#,c++,lua, uso como primcipal ferramenta a Unity.
+- 🌱 Atualmente estou focado em concluir meus estudos.
+- 😄 Pronouns: PEDRIN
+- ⚡ Fato Engraçado: Ainda não aprendi tudo
